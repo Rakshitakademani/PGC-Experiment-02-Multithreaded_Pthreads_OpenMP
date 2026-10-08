@@ -1,4 +1,4 @@
-# STEP 23 — CALCULATE EFFICIENCY
+# EFFICIENCY
 
 ## Formula
 
