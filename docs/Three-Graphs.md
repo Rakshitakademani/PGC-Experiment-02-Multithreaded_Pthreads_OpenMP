@@ -1,4 +1,4 @@
-# STEP 24 — THREE PERFORMANCE GRAPHS
+# THREE PERFORMANCE GRAPHS
 
 This folder contains the three required graphs generated **only from the execution-time results visible in the supplied screenshots**.
 
