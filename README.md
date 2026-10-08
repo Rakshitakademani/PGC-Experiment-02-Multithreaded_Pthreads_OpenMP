@@ -780,26 +780,6 @@ Run:
 
 ---
 
-# 18. Source-to-Concept Map
-
-| Source File | Main Concept |
-|---|---|
-| `thread1.c` | Basic thread creation |
-| `thread2.c` | Multiple threads and arguments |
-| `thread_sum.c` | Explicit work distribution |
-| `race.c` | Pthread race condition |
-| `mutex.c` | Pthread mutual exclusion |
-| `pthread_perf.c` | Pthread performance |
-| `omp1.c` | OpenMP parallel region |
-| `omp_sum.c` | Work sharing and reduction |
-| `omp_race.c` | OpenMP race condition |
-| `omp_critical.c` | OpenMP critical section |
-| `omp_barrier.c` | OpenMP barrier |
-| `omp_perf.c` | OpenMP performance |
-| `sequential.c` | Sequential baseline |
-
----
-
 # 18. Conclusion
 
 This experiment demonstrates the practical foundations of **shared-memory multithreaded programming** using both Pthreads and OpenMP.
@@ -814,7 +794,7 @@ Most importantly, the experiment shows that parallel performance is not determin
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## Author
 
