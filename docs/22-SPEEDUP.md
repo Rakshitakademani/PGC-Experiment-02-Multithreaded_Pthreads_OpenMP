@@ -1,4 +1,4 @@
-# STEP 22 — CALCULATE SPEEDUP
+SPEEDUP CALCUATION
 
 ## Formula
 
@@ -54,4 +54,4 @@ Only execution times visible in the supplied screenshots are used below. No miss
 - Pthreads: **3.559×** at **15 threads**.
 - OpenMP: **6.873×** at **8 threads**.
 
-> Note: The manual's sample values (such as 9.62× for OpenMP at 16 threads) are not used here. These calculations use the user's actual screenshot results.
+> Note: The manual's sample values (such as 9.62× for OpenMP at 16 threads) are not used here. 
