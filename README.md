@@ -3,8 +3,6 @@
 # PGC Experiment 02
 ## Multithreaded Programming with Pthreads & OpenMP
 
-**Parallel and Grid Computing Laboratory**
-
 <p>
   <img src="https://img.shields.io/badge/Language-C-1f6feb?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Pthreads-POSIX%20Threads-6f42c1?style=for-the-badge">
